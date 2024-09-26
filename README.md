@@ -32,7 +32,7 @@
   <!-- <img width="45" height="40" alt="henrique-react"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> -->
   <!-- <img width="45" height="40" alt="henrique-mysql"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> -->
   <!-- <img width="45" height="40" alt="henrique-nodejs"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> -->
-  <!-- <img width="45" height="40" alt="henrique-github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" /> -->
+  <img width="45" height="40" alt="henrique-github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
   <!-- <img width="45" height="40" alt="henrique-git"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /> -->
 
 </div>
