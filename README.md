@@ -41,8 +41,7 @@
   
 <div style="display: inline_block">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henriquevianam&theme=dark&show_icons=true) 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark&show)](https://github.com/anuraghazra/github-readme-stats) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henriquevianam&theme=dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquevianam&layout=compact&theme=dark&show)](https://github.com/Henriquevianam/github-readme-stats)
 
 </div>
 
